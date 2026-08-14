@@ -91,7 +91,7 @@ HELP_ABOUT =f"""
 ─────────────────────────
 ❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴘᴜʀᴠɪ-ʙᴏᴛs](https://t.me/{UPDATES_CHANNEL})
 ❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ᴘᴜʀᴠɪ-ᴜᴘᴅᴀᴛᴇs](https://t.me/{SUPPORT_GROUP})
-❖ ʙᴏᴛ σᴡηєʀ ➥ [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/TheSigmaCoder)
+❖ ʙᴏᴛ σᴡηєʀ ➥ [Ritik ](@lll_Ritik_lll)
 ❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](github.com/TEAMPURVI/PURVI_CHAT)
 ─────────────────────────**
 """
